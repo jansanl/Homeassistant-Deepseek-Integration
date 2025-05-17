@@ -12,5 +12,6 @@
   "requirements": [
     "openai==1.68.2",
     "voluptuous-openapi==0.1.0"
-  ]
+  ],
+  "icon": "mdi:brain"
 }
